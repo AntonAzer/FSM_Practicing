@@ -1,4 +1,4 @@
-# FSM_Practicing
+# FSM_Practicing (EX 4.22 , 4.33 in Digital Design Ref.)
 
 # FSM 1 Diagram :
 
