@@ -6,3 +6,4 @@
 
 # FSM 2 Diagram :
 
+<img width="1276" height="355" alt="image" src="https://github.com/user-attachments/assets/bfacff15-b1e9-4744-944a-f84aba4c7a08" />
