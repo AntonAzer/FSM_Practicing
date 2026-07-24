@@ -7,3 +7,6 @@
 # FSM 2 Diagram :
 
 <img width="1276" height="355" alt="image" src="https://github.com/user-attachments/assets/bfacff15-b1e9-4744-944a-f84aba4c7a08" />
+
+-----------------
+**For additional FSM questions and detailed explanations, please check out my [Digital Design Interview Questions](https://github.com/AntonAzer/Digital_Design_Interview_Questions) repository (especially Part2).**
